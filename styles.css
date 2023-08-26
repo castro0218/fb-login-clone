@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    text-align: center;
+    margin-top: 15px;
+}
+.fb-qoute {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+
+}
+.login-container{
+    width: 390px;
+    margin: 30px auto;
+    box-shadow: 0 0 5px 3px rgba(0,0,0,0.1);
+    background-color: white;
+    border-radius: 8px;
+    padding: 15px;
+}
+input {
+    width: 87%;
+    display: block;
+    outline: none;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(0,0,0,0.1);
+    margin: 10px;
+}
+.btn-login{
+    width: 95%;
+    display: block;
+    margin-top: 15px;
+    padding: 15px;
+    margin-left: 10px;
+    color: white;
+    font-size: 20px;
+    border-radius: 9px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #1888f2;
+}
+.forgot {
+    margin: 15px 0;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #1888f2;
+}
+.forgot:hover {
+    text-decoration: underline;
+}
+hr{
+    margin: 25px;
+    opacity: 0.3;
+}
+.create {
+    display: block;
+    margin: 15px auto;
+    padding: 15px;
+    color: white;
+    font-size: 15px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #42b72a;
+    
+}
+.below-login{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.create-page{
+    font-weight: bold;
+    color: black;
+    text-decoration: none
+}
+.create-page:hover{
+    text-decoration: underline;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+.love {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.love:hover{
+    color: pink;
+}
